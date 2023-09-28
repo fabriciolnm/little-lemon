@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a, span, button, input {
+  font-family: 'Karla', sans-serif;
+}
+
+h1, p{
+  font-family: 'Markazi Text', serif;
+}
