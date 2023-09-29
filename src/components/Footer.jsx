@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="flex md:flex-row flex-shrink-0 items-center justify-center gap-4 md:gap-20">
         <img
           className="h-20 m-5 w-auto "
-          src="public/static/images/logo-footer.png"
+          src="/static/images/logo-footer.png"
           alt="Your Company"
         />
         <div className="flex text-sm gap-4 md:gap-12 ">
@@ -32,10 +32,10 @@ const Footer = () => {
         </div>
         <div className="flex flex-shrink-0 md:items-stretch flex-col m-4 md:m-0 gap-4">
           <a href="http://www.facebook.com" target="blank">
-            <img className="h-8 w-auto" src="src/assets/icon-facebook.png" alt="" />
+            <img className="h-8 w-auto" src="/static/images/icon-facebook.png" alt="" />
           </a>
           <a href="http://www.instagram.com" target="blank">
-            <img className="h-8 w-auto" src="src/assets/icon-instagram.png" alt="" />
+            <img className="h-8 w-auto" src="/static/images/icon-instagram.png" alt="" />
           </a>
         </div>
       </div>

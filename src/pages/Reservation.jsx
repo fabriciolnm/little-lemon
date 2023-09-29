@@ -214,8 +214,8 @@ const Reservation = () => {
           </form>
         </div>
         <div className="flex flex-col flex-shrink-0 gap-8 w-52 h-auto m-12 md:m-0">
-          <img src="public/static/images/restaurant chef B.jpg" alt="restaurant" />
-          <img src="public/static/images/restaurant.jpg" alt="restaurant" />
+          <img src="/static/images/restaurant chef B.jpg" alt="restaurant" />
+          <img src="/static/images/restaurant.jpg" alt="restaurant" />
         </div>
       </div>
     </div>

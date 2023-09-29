@@ -37,7 +37,7 @@ export default function Header() {
                 <div className="flex flex-shrink-0 items-center mr-5">
                   <img
                     className="h-14 w-auto"
-                    src="public/static/images/logo.png"
+                    src="/static/images/logo.png"
                     alt="Your Company"
                   />
                 </div>

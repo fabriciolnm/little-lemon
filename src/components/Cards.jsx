@@ -13,7 +13,7 @@ const Cards = () => {
       </div>
       <div className="flex flex-col md:flex-row justify-center items-center gap-5 my-6 text-black ">
         <div className="w-52 bg-gray-200 border rounded-t-xl">
-          <img className='w-52 border rounded-t-xl' src="public/static/images/greek salad.jpg" alt="" />
+          <img className='w-52 border rounded-t-xl' src="/static/images/greek salad.jpg" alt="" />
           <div className="flex justify-between align-center p-4">
             <h1 className="text-lg font-bold">Greek salad</h1>
             <p className="text-lg font-bold text-red-500">$12,90</p>
@@ -22,7 +22,7 @@ const Cards = () => {
             <h1 className="p-4 text-lg font-bold">Order a delivery</h1>
         </div>
         <div className="w-52 bg-gray-200 border rounded-t-xl">
-          <img className='w-52 border rounded-t-xl' src="public/static/images/bruchetta.svg" alt="" />
+          <img className='w-52 border rounded-t-xl' src="/static/images/bruchetta.svg" alt="" />
           <div className="flex justify-between align-center p-4">
             <h1 className="text-lg font-bold">Bruschetta</h1>
             <p className="text-lg font-bold text-red-500">$5,90</p>
@@ -31,7 +31,7 @@ const Cards = () => {
             <h1 className="p-4 text-lg font-bold">Order a delivery</h1>
         </div>
         <div className="w-52 bg-gray-200 border rounded-t-xl">
-          <img className='w-52 h-36 border rounded-t-xl' src="public/static/images/lemon dessert.jpg" alt="" />
+          <img className='w-52 h-36 border rounded-t-xl' src="/static/images/lemon dessert.jpg" alt="" />
           <div className="flex justify-between align-center p-4">
             <h1 className="text-lg font-bold">Lemon Dessert</h1>
             <p className="text-lg font-bold text-red-500">$5,00</p>

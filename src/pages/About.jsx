@@ -10,8 +10,8 @@ const About = () => {
           <span className='flex text-base w-64 mt-4'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem omnis, accusantium aut quo, amet inventore, blanditiis dicta dolores ipsum possimus consectetur incidunt eveniet itaque eligendi officiis. In nulla obcaecati sint?</span>
         </div>
         <div className='w-64 h-auto my-6 flex flex-col gap-4'>
-          <img src="public/static/images/Mario and Adrian b.jpg" alt=""/>
-          <img src="public/static/images/restaurant.jpg" alt=""/>
+          <img src="/static/images/Mario and Adrian b.jpg" alt=""/>
+          <img src="/static/images/restaurant.jpg" alt=""/>
         </div>
       </div>
     </div>

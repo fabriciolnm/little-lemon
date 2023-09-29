@@ -16,7 +16,7 @@ const Home = () => {
           </a>
         </div>
         <div className='w-52 h-auto my-8'>
-          <img src="public/static/images/restauranfood.jpg" alt="" />
+          <img src="/static/images/restauranfood.jpg" alt="" />
         </div>
       </div>
       <Cards/>
