@@ -3,9 +3,9 @@ import Cards from '../components/Cards'
 
 const Menu = () => {
   return (
-    <div>
+    <section>
       <Cards/>
-    </div>
+    </section>
   )
 }
 

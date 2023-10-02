@@ -3,7 +3,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div className="text-white mt-10">
+    <section className="text-white mt-10">
       <div className="bg-teal-900 w-full flex flex-col flex-shrink-0 pl-6 md:pl-0 md:items-center justify-center md:flex-row md:gap-32">
         <div>
           <h1 className='text-4xl md:text-6xl text-yellow-500 mt-6 md:mt-0'>Little Lemon</h1>
@@ -20,7 +20,7 @@ const Home = () => {
         </div>
       </div>
       <Cards/>
-    </div>
+    </section>
   )
 }
 

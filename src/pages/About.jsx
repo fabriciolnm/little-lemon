@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div className="h-screen text-white my-4">
+    <section className="h-screen text-white my-4">
       <div className="bg-teal-900 w-full h-auto md:flex flex-shrink-0 items-center justify-center p-6  gap-32">
         <div>
           <h1 className='text-6xl text-yellow-500'>Little Lemon</h1>
@@ -14,7 +14,7 @@ const About = () => {
           <img src="/static/images/restaurant.jpg" alt=""/>
         </div>
       </div>
-    </div>
+    </section>
   )
 }
 

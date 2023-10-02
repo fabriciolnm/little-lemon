@@ -39,7 +39,7 @@ const Signup = () => {
   console.log(formik.values);
 
   return (
-    <div>
+    <section>
       <a href="/reservation">
         <button className="text-md font-bold text-black p-4">Back</button>
       </a>
@@ -136,7 +136,7 @@ const Signup = () => {
           </a>
         </form>
       </div>
-    </div>
+    </section>
   );
 };
 

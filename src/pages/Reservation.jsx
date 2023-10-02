@@ -40,7 +40,7 @@ const Reservation = () => {
   console.log(formik.values);
 
   return (
-    <div className="text-white">
+    <section className="text-white">
       <div className="bg-teal-900 w-full p-6 md:pb-24 md:flex flex-shrink-0 items-center justify-center gap-32 ">
         <div>
           <h1 className="text-4xl md:text-6xl text-yellow-500">Little Lemon</h1>
@@ -218,7 +218,7 @@ const Reservation = () => {
           <img src="/static/images/restaurant.jpg" alt="restaurant" />
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
